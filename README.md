@@ -1,6 +1,6 @@
 Avis Drupal 7 theme starter kit.
 
-##Pre-Requirements:
+## Pre-Requirements:
 
 Install nodejs:
 ````
@@ -29,7 +29,7 @@ If issues like absent create symlink:
 sudo ln -s /usr/bin/nodejs /usr/bin/node
 ````
 
-##Installation
+## Installation
 
 Simply run
 ````
@@ -41,7 +41,7 @@ bower install
 ````
 in the directory with package.json and bower.json.
 
-##Commands
+## Commands
 Run
 ````
 gulp
