@@ -1,0 +1,5 @@
+name = Avis theme
+description = Avis Drupal 7 theme starter kit.
+screenshot = screenshot.png
+engine = phptemplate
+core = 7.x
